@@ -1,0 +1,16 @@
+.idea/
+
+.env
+
+api/.env
+api/bin
+
+integration/.env
+integration/bin
+
+consumer/.env
+consumer/bin
+
+data/
+
+tempo-data/
